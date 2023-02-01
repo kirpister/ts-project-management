@@ -72,7 +72,7 @@ form {
 }
 
 .projects header {
-  background: #ff0062;
+  background: #ff0062d2;
   height: 3.5rem;
   display: flex;
   justify-content: center;
@@ -84,7 +84,7 @@ form {
 }
 
 #finished-projects header {
-  background: #0044ff;
+  background: #0044ffc4;
 }
 
 .projects h2 {
@@ -106,12 +106,13 @@ form {
 }
 
 .projects li h2 {
-  color: #ff0062;
+  color: #ff0062cf;
   margin: 0.5rem 0;
 }
 
 #finished-projects li h2 {
-  color: #0044ff;
+  color: #0044ffb6;
+  letter-spacing: 2px;
 }
 
 .projects li h3 {
